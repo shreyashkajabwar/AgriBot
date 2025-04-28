@@ -52,14 +52,6 @@ Example Interaction:
 Ask a question (or type 'exit' to quit): How do I protect my crops from pests?
 🧠 Answer: [Detailed expert agricultural advice...]
 
-📂 Project Structure
-agribot/
-│
-├── agribot.py         # Main script
-├── faiss_index/       # (Auto-created) Folder storing FAISS index
-├── README.md          # Project documentation
-└── requirements.txt   # Python dependencies (optional)
-
 🧠 Future Improvements
 Add support for multilingual queries (e.g., Marathi, Hindi)
 Fine-tune custom LLMs on agriculture domain
