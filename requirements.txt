@@ -1,0 +1,6 @@
+torch
+ollama
+datasets
+langchain
+faiss-cpu
+sentence-transformers
